@@ -1,3 +1,4 @@
+
 let month = prompt();
 
 if(month==='January'){
@@ -46,6 +47,11 @@ else if(month==='November'){
 
 else if(month==='December'){
     document.write(12);
+}  
+  
+else{
+    document.write('Invalid')
+
 }
 
 
