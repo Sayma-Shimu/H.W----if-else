@@ -57,7 +57,7 @@ else{
 
 
     /*---------------switch--------------*/
-
+/*
     let days = +prompt()
 
     switch (days){
@@ -93,7 +93,55 @@ else{
             default :
             document.write('Invalid Number');
 
-    } 
+    }    */
+
+/*------------------
+            let days = +prompt()
+
+    switch (days){
+
+        case 1:           
+
+        case 2:           
+
+        case 3:          
+
+        case 4:          
+
+        case 5:
+            document.write('Working Day');
+            break;
+
+
+        case 6:       
+
+        case 7:
+            document.write('Sleeping Day');
+            break;
+
+            default :
+            document.write('Invalid Number');
+    }  */
+
+
+ /*let alphabet = prompt();
+
+ let alph =alphabet.toLowerCase();
+
+ switch(alph){
+    case 'a':
+    case 'e':
+    case 'i':
+    case 'o':
+    case 'u':
+        document.write('Vowel');
+        break;
+
+        default:
+            document.write('Consonant')
+ }*/
+
+
 
 
 
